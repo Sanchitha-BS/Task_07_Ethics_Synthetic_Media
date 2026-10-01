@@ -2,7 +2,7 @@
 
 ## Organizational Context
 
-This policy is written for the Learning & Development (L&D) function within a large enterprise software company, modeled on the kind of organization I worked in as a Solution Architect at Oracle Cerner. This team produces employee-facing training content, onboarding materials, and periodic internal communications for a global, multi-office workforce.
+This policy is written for the Learning & Development (L&D) function within a large enterprise software company. This team produces employee-facing training content, onboarding materials, and periodic internal communications for a global, multi-office workforce.
 
 Three recurring content types create real temptation to use synthetic media, and anchor this policy:
 
