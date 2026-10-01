@@ -1,6 +1,6 @@
 # Phase A: Ethical Analysis
 
-> Grounded in the Task 6 artifact and process log (`Task_06_Deep_Fake`): two AI-generated audio clips produced with ElevenLabs (free tier) from a coach's end-of-season reflection script, using two stock voice presets (Nathan, Natural Narrator; Lauren, Empathetic and Encouraging). No real person's voice or likeness was used.
+Grounded in the Task 6 artifact and process log (`Task_06_Deep_Fake`): two AI-generated audio clips produced with ElevenLabs (free tier) from a coach's end-of-season reflection script, using two stock voice presets (Nathan, Natural Narrator; Lauren, Empathetic and Encouraging). No real person's voice or likeness was used.
 
 ## 1. Return to What I Built
 
@@ -69,3 +69,7 @@ Fields like journalism have adopted norms leaning toward mandatory disclosure an
 ### Across the board
 
 Nothing on this list stops generation itself. Disclosure depends on staying attached to the file, which my own project shows it may not. Provenance depends on metadata surviving a pipeline it usually doesn't survive. Detection depends on generator fingerprints that shift with every model update. Law and platform policy both operate after the content already exists and has likely already spread. Every mitigation here is a bet against a specific, defeatable assumption, not a barrier to the underlying capability.
+
+### Where accountability actually sits
+
+Given how consistently each mitigation above fails at a different point, I don't think accountability can sit in one place. The producer is the only party who can prevent a piece of synthetic media from existing in the first place, which is why the burden has to start there, with consent and honest disclosure built in from the start rather than bolted on afterward, the way I treated my own disclosure in Task 6. But producer-level responsibility only covers good-faith actors like me; it does nothing against someone who intends harm from the outset. Platforms are the next layer, because they control distribution at scale, but my own survey shows platform detection is only as good as whatever tool generated the content and whether metadata survived upload, so platforms catch what their detectors happen to be tuned for, not everything. Regulators operate slowest of all three, after the harm is visible and often after the specific technique is already outdated. If I had to locate primary accountability, I'd put it on the producer first, because that is the only point in the chain where prevention is actually possible, and treat platform and regulatory accountability as backstops for the cases, like a bad-faith actor, where producer-level responsibility was never going to hold in the first place. I'm not fully confident in this ordering; it's possible the imbalance of harm (a platform reaching millions versus one producer) argues for weighting platform accountability more heavily than I have here.
