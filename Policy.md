@@ -16,7 +16,9 @@ Alongside these, the L&D team also produces new-hire welcome videos and occasion
 
 ## Policy: Use of Synthetic Media in Employee Communications and Training
 
-**Applies to:** All Learning & Development staff, internal communications staff, and any vendor or contractor producing content on the company's behalf.
+**Policy owner:** Learning & Development (L&D) leadership, in coordination with HR and Internal Communications
+**Applies to:** All Learning & Development staff, internal communications staff, and any vendor or contractor producing content on the company's behalf
+**Review cycle:** Annually, and after any incident reported under Section 7
 
 ### 1. Permitted Uses
 
@@ -65,7 +67,9 @@ Learning from Task 6: disclosure that lives only in a file name or a README does
 
 - Any content involving a real employee's likeness or voice, or any executive-facing content (welcome videos, town-hall substitutes), requires sign-off from both the L&D lead and HR before production begins.
 - Fully synthetic, non-human-presenter content (system walkthroughs, procedural narration with no real-person likeness) requires only standard L&D content review, no additional HR sign-off.
-- No content under this policy is published without a named individual confirming disclosure (Section 4) and provenance (Section 5) requirements were met.
+- **Standard applied at review:** the reviewer confirms, in writing, that the proposed use falls under Section 1 (Permitted Uses) and not Section 2 (Prohibited Uses); that consent is obtained and documented per Section 3 where a real person's voice or likeness is involved; and that the production plan includes the disclosure (Section 4) and provenance (Section 5) steps before recording or generation begins, not as an afterthought added before publication.
+- No content under this policy is published without a named individual confirming disclosure (Section 4) and provenance (Section 5) requirements were actually met in the finished output, not just planned.
+- Any vendor or contractor engaged to produce content under this policy must be contractually bound to follow it, including the consent, disclosure, and provenance requirements above, and must notify L&D promptly if a project cannot meet them.
 
 ### 7. Incident Response
 
